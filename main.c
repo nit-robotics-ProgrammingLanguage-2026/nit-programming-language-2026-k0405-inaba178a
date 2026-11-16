@@ -11,7 +11,7 @@ int main(void) {
        double x;
     double result;
     scanf("%lf",&x);
-    result = 3.141592 / 90 * x;
+    result = 90 / 3.141592 * x;
     printf("%f\n",result);
 
 
